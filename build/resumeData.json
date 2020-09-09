@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Daniel Kakona",
+    "occupation": "ReactJS , ReactNative Developer && Entrepreneur",
+    "description": "Full Stack React Developer",
+    "image": "IG_Daniel.JPG",
+    "bio": "My name is Daniel Kabeya kakona, I'm a Full Stack ReactJS and ReactNative Developer. Currently I'm working at BridgeLabs, SouthAfrica ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "Danielkakona1@gmail.com",
+    "phone": "+27780567472",
+    "address": {
+      "street": "7 Dukes Avenue Windsor west Randburg",
+      "city": "Johannesburg",
+      "state": "South Africa",
+      "zip": "2119"
+    },
+    "website": "",
+    "resumedownload": "./assets/Daniel_s_CV.pdf",
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/daniel.kakona/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/daniel-kakona-7ba214128/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/danielkakona/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DanielKakona1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [{
+      "school": "University of Johannesburg",
+      "degree": "Master in IT Management",
+      "graduated": "January 2020",
+      "description": "Graduating in April 2021"
+    }],
+    "work": [{
+      "company": "BridgeLabs",
+      "title": "Software Engineer",
+      "years": "December 2018 - Present",
+      "description": "Creating Mobile Application with ReactNative and WebApp with ReactJs"
+    }],
+    "skills": [
+
+      {
+        "name": "ReactNative",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma",
+        "level": "35%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "Firebase",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "instagram-pinch-to-zoom",
+        "category": "Built with React Native and typescript",
+        "image": "instagram.png",
+        "url": "https://github.com/DanielKakona1/instagram-pinch-to-zoom"
+      },
+      {
+        "title": "Burger system",
+        "category": "System to customize a burger",
+        "image": "burger.png",
+        "url": "https://burger-f7deb.firebaseapp.com/"
+      },
+      {
+        "title": "Uber Login",
+        "category": "Built with React Native and typescript",
+        "image": "uber.png",
+        "url": "https://github.com/DanielKakona1/Uber-Login"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-91564.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-clone-a334c.web.app/"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "HuluClone built with ReactJS",
+        "image": "hulu.png",
+        "url": "https://hulu-clone-32259.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "I work with Daniel in the same company but this guy is something else",
+        "user": "Donato"
+      },
+      {
+        "text": "Daniel is one of the most brilliant developers I've ever met! I only had a chance of workig with him once and this guy is really good.!",
+        "user": "Gael Mutombo"
+      }
+    ]
+  }
+}
